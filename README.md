@@ -10,6 +10,6 @@ The column names first list the model that created the summary and then list the
 
 1. allScores.csv - First cut with the first 20 manifestos in the file. Runs on first 3 models
 2. allScores2.csv - Second cut. Uses 30 random manifestos. Runs on first 3 models. Errors are listed for scores where no summary was made. Blanks mean the score was NA for a manifesto summary that did exist.
-4. allScores3.csv - Third cut. Uses the same 30 manifestos as allSCores2, but adds an additional 24 manifestos. Right now, scores are available for 4 of the 6 models for summaries created by all 6 models. 
+4. allScores3.csv - Third cut. Uses the same 30 manifestos as allSCores2, but adds an additional 24 manifestos. Right now, scores are available for 4 of the 6 models for summaries created by all 6 models. Errors are listed for scores where no summary was made. Blanks mean the score was NA for a manifesto summary that did exist.
 
 <img width="500" height="250" alt="OpenRouter DiXoyepE" src="https://github.com/user-attachments/assets/c4758da1-519f-43c9-86f5-3a9706983c5e" />
